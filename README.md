@@ -32,7 +32,7 @@ The dataset used in this project is Tesla's stock prices obtained from a CSV fil
 - **Visualization**: Finally, the actual vs. predicted prices are plotted using matplotlib.
 
 ## Results
-After running the script, you will see a plot comparing the actual Tesla stock prices with the predictions made by the LSTM model. The console will also display the RMSE values for both the training and test datasets of Open, Close, Low, High and all features.
+After running the script, you will see a plot comparing the actual Tesla stock prices with the predictions made by the LSTM model. The console will also display the RMSE values for both the training and test datasets of `Open`, `Close`, `Low`, `High` and `All features`.
 
 
 ## Customization
